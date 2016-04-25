@@ -1,3 +1,4 @@
 *.pyc
 pics*/
 .directory
+__pycache__/
